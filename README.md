@@ -1,4 +1,4 @@
-## Hi there, im a eletrical engineering student
+## Hi there, I'm an eletrical engineering student
 
 - 🌱 I’m currently learning ... SQL
 - 👯 I’m looking to collaborate on ... engineering projects
