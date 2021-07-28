@@ -1,11 +1,10 @@
 ## Hi there, I'm an eletrical engineering student
 
-- 🌱 I’m currently learning ... SQL
-- 👯 I’m looking to collaborate on ... eletric power systems projects
-- 🤔 I’m looking for help with ... C++
-- 💬 Ask me about ... the life, the universe and everything else
-- 📫 How to reach me: ... it's easy! https://www.instagram.com/guipcastanheira/?hl=pt-br
-- :hammer_and_wrench: vamo trabaiá
+- ⚡ Eletric Power Systems is my role
+- 📋 Ask me about the life, the universe and everything else
+- 📫 How to reach me? It's easy! https://www.instagram.com/guipcastanheira/?hl=pt-br
+- 🛠️ Vamo trabaiá
+- 🌎 From Brazil
 ### Thats all folks!
 <!--
 **guilhermecastanheira/guilhermecastanheira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
