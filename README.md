@@ -1,6 +1,6 @@
 ## Hi there, I'm an eletrical engineering student
 
-- ⚡ Eletric Power Systems is my role
+- ⚡ Eletric Power Systems
 - 📋 Ask me about the life, the universe and everything else
 - 📫 How to reach me? It's easy! https://www.instagram.com/guipcastanheira/?hl=pt-br
 - 🛠️ Vamo trabaiá
