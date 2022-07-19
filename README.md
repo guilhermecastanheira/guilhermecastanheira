@@ -1,5 +1,4 @@
 ## Hi there, I'm an eletrical engineer and a software developer enthusiast
----
 
 ⚡ In eletrical engineering my favorite area is eletric power systems, I worked during 03 years making research about power distribution systems
 
