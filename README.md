@@ -4,7 +4,7 @@
 
 * 🚀 Sci-Fi 🍺 Beer and ⚽ Soccer!
 
-* 📫 How to reach me? [It's easy, click here!](https://www.linkedin.com/in/guilherme-piloto-castanheira-b96716170/)
+* 📫 How to reach me? [It's easy!](https://www.linkedin.com/in/guilherme-piloto-castanheira-b96716170/)
 
 * 🥶 I'm an Electrical engineer and master degree student in eletric power systems.
 
